@@ -5,6 +5,7 @@ build/dependency management: [Gradle](https://gradle.org)<br/>
 testing: [Junit](http://junit.org/junit4/)<br/>
 code style: [Checkstyle](http://checkstyle.sourceforge.net)<br/>
 coverage: [JaCoCo](http://www.jacoco.org/jacoco/)<br/>
+logging: [Log4j](https://logging.apache.org/log4j/2.x/)<br/>
 ## Dependecies
 * [Java-console-view](https://github.com/nathanielove/Java-Console-View)<br/>
 View layer help for command line programs.
